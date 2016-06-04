@@ -8,7 +8,7 @@ Easy to clone for a new project or just to get over the obstacles of your own im
 
 #### Install
 1. Create lumendingojwtapi database
-2. php artisan migrate && php arisan db:seed
+2. php artisan migrate && php artisan db:seed
 
 #### Versions
 * v1.x.x family is based on Lumen 5.1.x
